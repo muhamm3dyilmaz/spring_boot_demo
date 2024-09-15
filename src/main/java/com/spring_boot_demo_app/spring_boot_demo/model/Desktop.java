@@ -1,4 +1,4 @@
-package com.spring_boot_demo_app.spring_boot_demo;
+package com.spring_boot_demo_app.spring_boot_demo.model;
 
 import org.springframework.context.annotation.Primary;
 import org.springframework.stereotype.Component;

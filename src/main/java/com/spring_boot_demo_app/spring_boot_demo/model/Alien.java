@@ -1,4 +1,4 @@
-package com.spring_boot_demo_app.spring_boot_demo;
+package com.spring_boot_demo_app.spring_boot_demo.model;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.beans.factory.annotation.Qualifier;
